@@ -1,13 +1,13 @@
 ﻿<Properties StartupItem="StreamReddit.csproj">
   <MonoDevelop.Ide.Workbench ActiveDocument="MainActivity.cs">
     <Files>
-      <File FileName="MainActivity.cs" Line="9" Column="39" />
+      <File FileName="MainActivity.cs" Line="9" Column="67" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.StreamReddit AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.192.168.57.101:5555" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
+  <MonoDevelop.Ide.ItemProperties.StreamReddit AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
 </Properties>
