@@ -1,0 +1,13 @@
+/Users/adamb/Projects/StreamReddit/obj/Release/android/assets/StreamReddit.dll
+/Users/adamb/Projects/StreamReddit/obj/Release/android/assets/System.dll
+/Users/adamb/Projects/StreamReddit/obj/Release/android/assets/System.Xml.dll
+/Users/adamb/Projects/StreamReddit/obj/Release/android/assets/Mono.Android.dll
+/Users/adamb/Projects/StreamReddit/obj/Release/android/assets/Java.Interop.dll
+/Users/adamb/Projects/StreamReddit/obj/Release/android/assets/System.Core.dll
+/Users/adamb/Projects/StreamReddit/obj/Release/android/assets/Xamarin.Android.Support.v4.dll
+/Users/adamb/Projects/StreamReddit/obj/Release/android/assets/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/adamb/Projects/StreamReddit/obj/Release/android/assets/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/adamb/Projects/StreamReddit/obj/Release/android/assets/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/adamb/Projects/StreamReddit/obj/Release/android/assets/mscorlib.dll
+/Users/adamb/Projects/StreamReddit/obj/Release/android/assets/System.Runtime.Serialization.dll
+/Users/adamb/Projects/StreamReddit/obj/Release/android/assets/System.ServiceModel.Internals.dll
